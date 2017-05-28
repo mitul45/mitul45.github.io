@@ -1,0 +1,50 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+body {
+  margin: 0 auto;
+  padding: 4em 1em;
+  max-width: 50em;
+  line-height: 1.5;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  color: #555;
+}
+
+h1,
+h2,
+h3,
+h4,
+strong {
+  color: #333333;
+}
+
+h2 {
+  padding-top: 1em;
+  margin-top: 1em;
+}
+
+h3 {
+  margin-bottom: 0.5em;
+}
+
+code,
+pre {
+  background: #EEEEEE;
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  border-radius: 3px;
+}
+
+code::before,
+code::after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+h2 {
+  border-top: solid 1px #EEEEEE;
+}
+
+#refresh-link {
+  height: 1em;
+}
