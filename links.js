@@ -78,6 +78,10 @@
     {
       title: "Quick, draw me a sheep!",
       link: "https://quickdraw.withgoogle.com/"
+    },
+    {
+      title: "Read Calvin & Hobbes",
+      link: "http://marcel-oehler.marcellosendos.ch/comics/ch/"
     }
   ];
 
