@@ -10,7 +10,7 @@
     { title: "Play a Game", link: "https://www.solitr.com/" },
     {
       title: "National Geographic - Photo of the Day",
-      link: "http://www.nationalgeographic.com/photography/photo-of-the-day"
+      link: "http://www.nationalgeographic.com/photography/photo-of-the-day/"
     },
     {
       title: "Road to North Korea",
@@ -82,6 +82,9 @@
     {
       title: "Read Calvin & Hobbes",
       link: "http://marcel-oehler.marcellosendos.ch/comics/ch/"
+    }, {
+      title: "Need some motivation?",
+      link: "http://theoatmeal.com/comics/running"
     }
   ];
 
