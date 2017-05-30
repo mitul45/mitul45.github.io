@@ -106,12 +106,12 @@ h2 {
 
 @media print
 {    
-    .no-print, .no-print *
-    {
-        display: none;
-    }
+  .no-print, .no-print *
+  {
+    display: none;
+  }
 
-    .only-print, .only-print * {
-      display: block;
-    }
+  .only-print, .only-print * {
+    display: block;
+  }
 }

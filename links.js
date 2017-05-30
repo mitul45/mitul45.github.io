@@ -82,7 +82,8 @@
     {
       title: "Read Calvin & Hobbes",
       link: "http://marcel-oehler.marcellosendos.ch/comics/ch/"
-    }, {
+    },
+    {
       title: "Need some motivation?",
       link: "http://theoatmeal.com/comics/running"
     }
