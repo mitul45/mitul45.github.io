@@ -92,3 +92,19 @@ h2 {
   display: flex;
   justify-content: space-between;
 }
+
+.only-print {
+  display: none;
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none;
+    }
+
+    .only-print, .only-print * {
+      display: block;
+    }
+}

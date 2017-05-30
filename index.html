@@ -17,6 +17,9 @@
                 </h1>
                 <img id="profile" src="assets/profile.jpg" alt="Profile">
             </div>
+            <div id="portfolio-link" class="only-print">
+              <a href="https://mitul45.github.io">https://mitul45.github.io</a>
+            </div>
 
             <p> I am an engineer, working on web technologies for past couple of years. </p>
 
@@ -24,7 +27,7 @@
 
             <p> Born in Ahmedabad, <a href="#education">studied</a> at Ahmedabad, Nadiad, and Roorkee. <a href="#work">Worked</a> at Chennai and Bangalore.  </p>
 
-            <p> Apart from work, I like to <a href="#travel">travel</a>, <a href="https://www.goodreads.com/user/show/25578033-mitul-shah" target="_blank">read</a>, and <a href="#interesting-links">surf the internet</a>. </p>
+            <p class="no-print"> Apart from work, I like to <a href="#travel">travel</a>, <a href="https://www.goodreads.com/user/show/25578033-mitul-shah" target="_blank">read</a>, and <a href="#interesting-links">surf the internet</a>. </p>
         </div>
         <div id="projects">
             <h2> Personal Projects </h2>
@@ -129,22 +132,23 @@
             </div>
         </div>
 
-        <div id="travel">
+        <div id="travel" class="no-print">
             <h2> <i class="ion-map"></i>&nbsp;Travel </h2>
             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1iUDUpTxIAQW--1MrdJhDc557q9g" width="100%" height="480"></iframe>
         </div>
-        <div id="interesting-links">
+        <div id="interesting-links" class="no-print">
             <h2> <i class="ion-earth"></i> Interesting Things from All Around the Web</h2>
             <a id="link" target="_blank"></a> | <a id="refresh" href="#"><i class="ion-android-refresh"></i></a><a id="show-all" style="display: none;" href="#all-links">Show All</a>
             <ul id="all-links" style="display: none;"></ul>
         </div>
-        <div id="contact">
+        <div id="contact" class="no-print">
             <h2>&nbsp;</h2>
-            <a href="https://github.com/mitul45" target="_blank"><i class="ion-icon ion-social-github"></i></a>
-            <a href="https://twitter.com/mitul_45" target="_blank"><i class="ion-icon ion-social-twitter"></i></a>
-            <a href="https://facebook.com/mitul45" target="_blank"><i class="ion-icon ion-social-facebook"></i></a>
-            <a href="https://www.linkedin.com/in/mitul45" target="_blank"><i class="ion-icon ion-social-linkedin"></i></a>
-            <a href="mailto:45.mitul@gmail.com" target="_blank"><i class="ion-icon ion-ios-email"></i></a>
+            <a href="https://github.com/mitul45" target="_blank"><i class="ion-icon ion-social-github" title="GitHub"></i></a>
+            <a href="https://twitter.com/mitul_45" target="_blank"><i class="ion-icon ion-social-twitter" title="Twitter"></i></a>
+            <a href="https://facebook.com/mitul45" target="_blank"><i class="ion-icon ion-social-facebook" title="Facebook"></i></a>
+            <a href="https://www.linkedin.com/in/mitul45" target="_blank"><i class="ion-icon ion-social-linkedin" title="LinkedIn"></i></a>
+            <a href="mailto:45.mitul@gmail.com" target="_blank"><i class="ion-icon ion-ios-email" title="Email"></i></a>
+            <a href="#" onclick="window.print();" class="no-print"><i class="ion-icon ion-document-text" title="Download resume"></i></a>
         </div>
     </body>
     <script src="/links.js"></script>
