@@ -9,6 +9,18 @@ body {
   color: #555;
 }
 
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#header #profile {
+  height: 9em;
+  width: 9em;
+  border-radius: 50%;
+}
+
 h1,
 h2,
 h3,
@@ -55,4 +67,18 @@ h2 {
   margin-left: 0.5em;
   margin-right: 0.5em;
   color: #333333;
+}
+
+:target {
+  animation: 1.5s fadeOut ease-out;
+}
+
+@keyframes fadeOut {
+  from {
+    background: blanchedalmond;
+  }
+
+  to {
+    background: none;
+  }
 }

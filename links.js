@@ -58,7 +58,7 @@
     { title: "Sugar to Taste", link: "https://m.xkcd.com/1639/" },
     { title: "Lunch Order", link: "https://m.xkcd.com/1834/" },
     { title: "Got two mins?", link: "http://www.staggeringbeauty.com/" },
-    { title: "What's RGB?", link: "http://www.rrrgggbbb.com/" },
+    { title: "How does RGB sound?", link: "http://www.rrrgggbbb.com/" },
     {
       title: "A magician/ex-googler decodes how technology is hijacking our daily lives",
       link: "https://journal.thriveglobal.com/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3"
