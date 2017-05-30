@@ -21,6 +21,13 @@ body {
   border-radius: 50%;
 }
 
+#header #title h1, #header #title h2{
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 0;
+}
+
 h1,
 h2,
 h3,
