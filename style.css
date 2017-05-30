@@ -19,6 +19,11 @@ body {
   height: 9em;
   width: 9em;
   border-radius: 50%;
+  transition: box-shadow 0.2s linear;
+}
+
+#header #profile:hover {
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
 }
 
 #header #title h1, #header #title h2{
