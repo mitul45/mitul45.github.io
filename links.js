@@ -68,7 +68,7 @@
       link: "https://www.ratical.org/ratville/CAH/warisaracket.html"
     },
     {
-      title: 'You will have to pay for being "Good Fellow"',
+      title: 'You will have to pay for being a "Good Fellow"',
       link: "https://mikecanex.wordpress.com/2012/12/26/1922-why-i-quit-being-so-accommodating/"
     },
     {
