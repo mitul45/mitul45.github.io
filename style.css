@@ -38,6 +38,11 @@ h3 {
   margin-bottom: 0.5em;
 }
 
+.flex-vertical-center {
+  display: flex;
+  align-items: center;
+}
+
 code,
 pre {
   background: #EEEEEE;
@@ -81,4 +86,9 @@ h2 {
   to {
     background: none;
   }
+}
+
+.info, .title {
+  display: flex;
+  justify-content: space-between;
 }
