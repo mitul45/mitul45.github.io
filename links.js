@@ -86,6 +86,10 @@
     {
       title: "Need some motivation?",
       link: "http://theoatmeal.com/comics/running"
+    },
+    {
+      title: "Fireflies, and what they can teach us about, well, everything.",
+      link: "http://ncase.me/fireflies/"
     }
   ];
 
