@@ -25,8 +25,6 @@
       title: "What is equality?",
       link: "http://thewireless.co.nz/articles/the-pencilsword-on-a-plate"
     },
-    { title: "Glass Half Empty", link: "https://what-if.xkcd.com/6/" },
-    { title: "Jump! Everybody!", link: "https://what-if.xkcd.com/8/" },
     {
       title: "Hope the Voyage is a Long One",
       link: "http://zenpencils.com/comic/131-c-p-cavafy-ithaka/"
@@ -55,8 +53,6 @@
       title: "You see, I'm just a web server..",
       link: "https://www-s.acm.illinois.edu/sigarch/projects/sensornode/"
     },
-    { title: "Sugar to Taste", link: "https://m.xkcd.com/1639/" },
-    { title: "Lunch Order", link: "https://m.xkcd.com/1834/" },
     { title: "Got two mins?", link: "http://www.staggeringbeauty.com/" },
     { title: "How does RGB sound?", link: "http://www.rrrgggbbb.com/" },
     {
