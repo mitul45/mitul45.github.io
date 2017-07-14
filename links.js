@@ -86,6 +86,22 @@
     {
       title: "Fireflies, and what they can teach us about, well, everything.",
       link: "http://ncase.me/fireflies/"
+    },
+    {
+      title: "The Nearly Mile-Wide Diamond Mine That Helped Build the Soviet Union",
+      link: "http://gizmodo.com/the-nearly-mile-wide-diamond-mine-that-helped-build-the-1593234924"
+    },
+    {
+      title: "How startups such as Dropbox, Airbnb, Groupon and others acquired their first users",
+      link: "https://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and/"
+    },
+    {
+      title: "URLs are UI",
+      link: "https://www.hanselman.com/blog/URLsAreUI.aspx"
+    },
+    {
+      title: "Is it unethical for me to not tell my employer I’ve automated my job? :D",
+      link: "https://workplace.stackexchange.com/questions/93696/is-it-unethical-for-me-to-not-tell-my-employer-i-ve-automated-my-job"
     }
   ];
 
