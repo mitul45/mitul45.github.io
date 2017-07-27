@@ -102,6 +102,26 @@
     {
       title: "Is it unethical for me to not tell my employer I’ve automated my job? :D",
       link: "https://workplace.stackexchange.com/questions/93696/is-it-unethical-for-me-to-not-tell-my-employer-i-ve-automated-my-job"
+    },
+    {
+      title: "Engineers are hired to create business value, not to program things.",
+      link: "http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/"
+    },
+    {
+      title: "Posters of some of the classic book quotes",
+      link: "http://imgur.com/a/GNVnD"
+    },
+    {
+      title: "The “Million Dollar Homepage” as a Decaying Digital Artifact",
+      link: "https://lil.law.harvard.edu/blog/2017/07/21/a-million-squandered-the-million-dollar-homepage-as-a-decaying-digital-artifact/"
+    },
+    {
+      title: "The Evolution of Trust",
+      link: "http://ncase.me/trust/"
+    },
+    {
+      title: "Intelligence takes many different forms. It is not one-dimensional. - Career advice from Bill Gates",
+      link: "https://twitter.com/BillGates/status/864100357684609025"
     }
   ];
 
