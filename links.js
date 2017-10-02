@@ -122,6 +122,22 @@
     {
       title: "Intelligence takes many different forms. It is not one-dimensional. - Career advice from Bill Gates",
       link: "https://twitter.com/BillGates/status/864100357684609025"
+    },
+    {
+      title: "30-Day Timelapse at Sea",
+      link: "https://www.youtube.com/watch?v=AHrCI9eSJGQ"
+    },
+    {
+      title: "git git git git git",
+      link: "http://caiustheory.com/git-git-git-git-git/"
+    },
+    {
+      title: "Best Time to Visit Any City",
+      link: "https://championtraveler.com/travel-weather-map/"
+    },
+    {
+      title: "Interactive Wind Map of Your City",
+      link: "https://www.windy.com"
     }
   ];
 
